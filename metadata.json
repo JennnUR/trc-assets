@@ -1,0 +1,13 @@
+{
+  "name": "The Recession Coin",
+  "symbol": "TRC",
+  "description": "TRC — An algorithmic recession-driven macro token.",
+  "image": "https://raw.githubusercontent.com/JennnUR/trc-assets/refs/heads/main/trc_logo.png",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "source": "https://github.com/JennnUR/trc-assets"
+  },
+  "tags": ["macro", "recession", "algorithmic", "crypto"],
+  "creator": "TRC_Group"
+}
